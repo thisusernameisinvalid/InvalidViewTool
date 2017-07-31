@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{does stuff with stuff}
   spec.description   = %q{a description with stuff and stuff}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://c9-rails-thisusernameisinvalid.c9users.io/"
 
 
   spec.files         = `git ls-files -z`.split("\x0").reject do |f|
